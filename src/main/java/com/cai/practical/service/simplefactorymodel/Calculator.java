@@ -1,7 +1,7 @@
 package com.cai.practical.service.simplefactorymodel;
 
 /**
- * 运行测试
+ * 运行测试git
  * Created by Administrator on 2018/5/31.
  */
 public class Calculator {
