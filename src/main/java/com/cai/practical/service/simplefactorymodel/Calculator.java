@@ -8,7 +8,7 @@ public class Calculator {
     public static void main(String[] args) {
         Operation operation;
         char operator;
-        operator = '1';
+        operator = '-';
         operation = OperationFactory.caretaOperate(operator);
         operation.set_numberA(1);
         operation.set_numberB(2);
